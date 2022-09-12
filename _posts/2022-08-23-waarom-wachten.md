@@ -2,7 +2,7 @@
 layout: post
 author: ruud
 title:  "Waarom wachten met genieten?"
-categories: [ werken, overig ]
+categories: [ werken, ontspannen ]
 image: assets/images/overig/logogroot.png
 ---
 Waarom zou je wachten met genieten totdat je met pensioen gaat? Dat is iets wat me ik de laatste tijd regelmatig heb afgevraagd. Er ik heb er actie op ondernomen!
