@@ -4,7 +4,7 @@ topmenu:
 - title: Home
   url: ""
 
-- title: Over Ruud
+- title: Over Minicademy
   url: "about/"
   class: "ml-2 btn btn-dark text-white px-3"
 
@@ -14,12 +14,8 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: Over Minicademy
+  url: "about/"
 
 - title: Contact
   url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true

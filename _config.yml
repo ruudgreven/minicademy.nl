@@ -2,10 +2,11 @@ title: "Minicademy"
 email: ruud@minicademy.nl
 timezone: UTC
 baseurl: ""
+ganalytics: 333976946
 permalink: "/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Ruud
 paginate: 30
 disqus: 'minicademy-nl'
 locale: nl_NL
@@ -30,12 +31,11 @@ authors:
     avatar: 'assets/images/ruud.png'
     email: ruud@rgonline.nl 
     web: https://www.ruudgreven.nl
-    twitter: https://twitter.com/wowthemesnet
     description: "Ruud is de oprichter van Minicademy. Hij is 39, woont alleen in een appartement van 70m2 nabij het centrum van een middelgrote stad. Natuur en parken zijn ook dichtbij. Ruud werkt 3 dagen per week als docent op het HBO en kan daar royaal van rondkomen. Hij heeft geen auto en zijn werk ligt op loopafstand."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
+  instagram: https://www.instagram.com/minicademy
 
 # Plugins
 plugins: 

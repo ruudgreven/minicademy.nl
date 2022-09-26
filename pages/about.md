@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Over Minicademy
 permalink: "/about/"
-image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Minicademy is een website opgezet door **Ruud Greven** om mensen bekend te maken met het minimalisme in de brede zin van het woord. Het is bedoeld als website met veel gratis content over minimaliseren, duurzaamheid en het verminderen van je uitgaven.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Veel plezier met de site!
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+Ruud Greven
 
